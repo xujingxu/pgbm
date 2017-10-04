@@ -34,4 +34,4 @@ b.  open MATLAB and provide following information.
 c.  run demo code.
     1.>> pgbm_svm this is a svm classification
     2.>> pgbm_knn this is a knn classification
-    3. >>pgbm_elm this is a elm classification
+    3.>> pgbm_elm this is a elm classification
