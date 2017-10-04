@@ -7,9 +7,6 @@
 %
 %   Kihyuk Sohn, Guanyu Zhou, Chansoo Lee, and Honglak Lee
 %   ICML, 2013
-%
-%
-%   last updated: 2013/06/18
 % ----------------------------------------------------------------------
 
 This matlab package contains demo codes of point-wise Gated Boltzmann 
@@ -46,7 +43,9 @@ b.  open MATLAB and provide following information.
     >> usejacket = 0;
 
 c.  run demo code.
-    >> demo_pgbm;
+    >> pgbm_svm;
+    >> pgbm_knn
+    >> pgbm_elm
 
 
 ===========================================================================
